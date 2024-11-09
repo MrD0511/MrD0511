@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🚀</h3>
 
-<p align="center">
-  <img src="/api/placeholder/600/300" alt="coding" width="600" />
-</p>
-
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing Computer Engineering at **SVIT Vasad (GTU)**
