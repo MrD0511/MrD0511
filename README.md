@@ -5,10 +5,6 @@
   <img src="/api/placeholder/600/300" alt="coding" width="600" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MrD0511&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing Computer Engineering at **SVIT Vasad (GTU)**
@@ -58,11 +54,11 @@ class DhruvSharma:
 ### 📫 How to reach me:
 
 <p align="left">
-<a href="https://linkedin.com/in/dhruvsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvsharma" height="30" width="40" /></a>
-<a href="https://github.com/dhruvsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dhruvsharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruv-sharma-d005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvsharma" height="30" width="40" /></a>
+<a href="https://github.com/MrD0511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dhruvsharma" height="30" width="40" /></a>
 </p>
 
 ---
-⭐️ From [DhruvSharma](https://github.com/dhruvsharma)
+⭐️ From [DhruvSharma](https://github.com/MrD0511)
 
 <!-- Proudly created with Passion -->
