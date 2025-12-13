@@ -7,7 +7,7 @@
 - 💼 I completed an 8-month remote internship at **Pintube Pvt Ltd** (London-based company)
 - 🌱 I'm passionate about exploring new technologies
 - 💡 I love problem-solving and building innovative solutions
-- 📚 Currently in my 5th semester
+- 📚 Currently in my last year of Computer Engineering Degree
 
 ### 🛠️ Tech Stack
 
@@ -46,6 +46,14 @@ class DhruvSharma:
 - Exploring cloud technologies
 - Learning system design
 - Contributing to open-source projects
+
+### Best Projects
+- [CipherChats - An End-to-End Encrypted Chat app](https://cipherchats.vercel.app)
+- [Deck - A Docker file generator tool](https://github.com/MrD0511/deck)
+- [Astro AI - An AI powered Astrologer](https://astroai.dhruvsharma.me)
+- [Super Me - A super mario remake](https://github.com/MrD0511/Super_Me)
+- [AI agent - Assists with mails and Schedules](https://github.com/MrD0511/AI-agent)
+
 
 ### 📫 How to reach me:
 
