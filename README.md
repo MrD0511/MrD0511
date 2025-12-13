@@ -52,7 +52,6 @@ class DhruvSharma:
 - [Deck - A Docker file generator tool](https://github.com/MrD0511/deck)
 - [Astro AI - An AI powered Astrologer](https://astroai.dhruvsharma.me)
 - [Super Me - A super mario remake](https://github.com/MrD0511/Super_Me)
-- [AI agent - Assists with mails and Schedules](https://github.com/MrD0511/AI-agent)
 
 
 ### 📫 How to reach me:
