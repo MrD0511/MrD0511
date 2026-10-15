@@ -14,12 +14,6 @@ I build full-stack products, then dig into the systems underneath them. To under
 
 B.E. in Computer Engineering, SVIT Vasad (GTU), 2022 to 2026. Based in Gujarat, India.
 
-## At a glance
-
-- **37 commands, ~60K to 67K req/s**: CAPIS, my Redis clone, runs on a single thread and works with the stock `redis-cli`, on an old Core i3.
-- **~30% faster queries**: moved a production app from MongoDB to MySQL at Pintube.
-- **Led 4 to 6 interns** on two production apps, owning architecture, backend and data layers.
-
 ## Now
 
 - Building **Markblox**, a Markdown-native CMS, in the open.
@@ -48,24 +42,6 @@ Tiptap editor with custom blocks, API keys, webhooks, rotating-refresh-token aut
 
 - **[Deck](https://github.com/MrD0511/deck)**: a Dockerfile generator.
 - **[Super Me](https://github.com/MrD0511/Super_Me)**: a platformer game remake.
-
-### How CAPIS handles a request
-
-The whole server is one process and one thread. The event loop reads bytes, the parser turns them into commands, and the cache handles eviction and expiry.
-
-```mermaid
-flowchart LR
-    C([redis-cli]) -->|RESP over TCP| S[NioServer<br/>event loop]
-    S --> P[Parser]
-    P --> H[CommandHandler<br/>37 commands + MULTI/EXEC]
-    H --> K[KeyValueStore]
-    K --> E[(LRU or LFU<br/>cache)]
-    S -. between select calls .-> M[Expiry sweep]
-    M --> K
-    S -->|reply| C
-```
-
----
 
 ## Experience
 
